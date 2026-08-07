@@ -1,0 +1,6 @@
+[{"country":"United States","continent":"North America","countryRiskPremium":0.23,"totalEquityRiskPremium":4.46},
+{"country":"United Kingdom","continent":"Europe","countryRiskPremium":0.78,"totalEquityRiskPremium":5.01},
+{"country":"Germany","continent":"Europe","countryRiskPremium":0,"totalEquityRiskPremium":4.23},
+{"country":"Japan","continent":"Asia","countryRiskPremium":0.91,"totalEquityRiskPremium":5.14},
+{"country":"Taiwan","continent":"Asia","countryRiskPremium":0.78,"totalEquityRiskPremium":5.01},
+{"country":"Canada","continent":"North America","countryRiskPremium":0,"totalEquityRiskPremium":4.23}]

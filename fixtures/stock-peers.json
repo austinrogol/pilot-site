@@ -1,0 +1,9 @@
+[{"symbol":"AAPL","companyName":"Apple Inc.","price":313.33,"mktCap":4601989255480},
+{"symbol":"ADI","companyName":"Analog Devices, Inc.","price":389.93,"mktCap":189929833910},
+{"symbol":"AVGO","companyName":"Broadcom Inc.","price":427.76,"mktCap":2035102420800},
+{"symbol":"ENTG","companyName":"Entegris, Inc.","price":152.08,"mktCap":23192200000},
+{"symbol":"GOOGL","companyName":"Alphabet Inc.","price":354.3,"mktCap":4287778028630},
+{"symbol":"IMOS","companyName":"ChipMOS TECHNOLOGIES Inc.","price":52.54,"mktCap":1838855341},
+{"symbol":"MSFT","companyName":"Microsoft Corporation","price":499.99,"mktCap":3712700744500},
+{"symbol":"TER","companyName":"Teradyne, Inc.","price":379.31,"mktCap":59301704710},
+{"symbol":"TSM","companyName":"Taiwan Semiconductor Manufacturing Company Limited","price":420.04,"mktCap":2178529059200}]

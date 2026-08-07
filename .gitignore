@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+
+# Local state that must never be committed.
+*.sqlite
+*.sqlite3
+*.db
+var/
+cache/
+governor_state.json
