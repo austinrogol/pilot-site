@@ -1,0 +1,39 @@
+# EdgeLoop research host. Authentication is Robinhood OAuth; no API key is stored here.
+[mcp_servers.robinhood-trading]
+url = "https://agent.robinhood.com/mcp/trading"
+auth = "oauth"
+enabled = true
+required = false
+startup_timeout_sec = 20
+tool_timeout_sec = 60
+default_tools_approval_mode = "auto"
+enabled_tools = [
+  "get_accounts",
+  "get_portfolio",
+  "get_realized_pnl",
+  "get_pnl_trade_history",
+  "search",
+  "get_watchlists",
+  "get_watchlist_items",
+  "get_popular_watchlists",
+  "get_equity_historicals",
+  "get_equity_fundamentals",
+  "get_financials",
+  "get_equity_price_book",
+  "get_equity_technical_indicators",
+  "get_earnings_results",
+  "get_earnings_calendar",
+  "get_indexes",
+  "get_index_quotes",
+  "get_equity_positions",
+  "get_equity_tax_lots",
+  "get_equity_quotes",
+  "get_equity_orders",
+  "get_equity_tradability",
+  "get_scans",
+  "get_scanner_filter_specs",
+  "run_scan",
+  "review_equity_order"
+]
+disabled_tools = ["place_equity_order", "cancel_equity_order"]
+
